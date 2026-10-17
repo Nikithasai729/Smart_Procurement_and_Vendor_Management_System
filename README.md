@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Procurement & Vendor Management System
 
 A comprehensive enterprise procurement and vendor management system built with **Spring Boot 3**, **Spring Security 6**, **Thymeleaf**, and **MySQL**.
@@ -67,3 +68,6 @@ mvn clean spring-boot:run
 | **Admin** | `admin` | `admin123` |
 | **Manager** | `manager` | `manager123` |
 | **Employee** | `employee` | `employee123` |
+=======
+# Smart_Procurement_and_Vendor_Management_System
+>>>>>>> 4bf9c4813b0d0c8d5cc807b18a7dcce300270110
